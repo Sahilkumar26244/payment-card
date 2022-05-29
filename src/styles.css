@@ -1,0 +1,46 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+  width:50%;
+  margin:auto;
+  border:1px solid blue;
+  padding:30px;
+  line-height: 25px;
+}
+.topDiv{
+  display: flex;
+  justify-content: space-between;
+}
+.yellow{
+  background-color: #f6a404;
+}
+.title{
+  border:1px solid black;
+  width:15%;
+  height:20%;
+  padding:10px 2px 10px 2px;
+  text-align: center;
+  background-color: black;
+color:wheat;
+font-weight: bold;
+margin-top:20px  
+}
+.comptitle{
+  font-size: 35px;
+  font-weight:bolder;
+  margin-top:30px
+}
+.pay{
+  font-size: 35px;
+  font-weight:bolder;
+  margin-top:30px
+}
+.mode {
+  font-weight:bolder;
+  margin-top:30px;
+  font-size:20px;
+}
